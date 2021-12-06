@@ -12,7 +12,8 @@
 }
 - Why?
 {
-*We believe in a secure and developed future, considering the increase of stealers and Discord not doing anything. We're launching our own solution to it all.
+*We believe in a secure and developed future, considering the increase of stealers and Discord not doing anything. 
+We're launching our own solution to it all.*
 }
 - Price
 {
