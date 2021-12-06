@@ -1,5 +1,4 @@
 # AntiSteal.NET
-**Features**
 ```diff
 - Offered Protection
 {
