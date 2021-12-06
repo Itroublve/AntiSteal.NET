@@ -1,4 +1,5 @@
 # AntiSteal.NET
+```diff
 - Offered Protection
 {
 • Any information a stealer might send
@@ -24,3 +25,4 @@ We're launching our own solution to it all.*
 • Python (Status: Unknown)
 • JS (Status: Unknown)
 }
+```
