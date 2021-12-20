@@ -1,4 +1,13 @@
 # AntiSteal.NET
+
+When will it be released?
+
+*Currently I'm working on it, and it can take sometime. I don't want to give any kind of estimates as I'm unaware of how much time I've got and if everything will work as 
+planned!*
+
+----
+
+
 ```diff
 - Offered Protection
 {
