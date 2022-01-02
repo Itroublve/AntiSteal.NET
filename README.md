@@ -17,7 +17,7 @@ planned!*
   • Cookies
   • Browser Password
   • Run on boot
-  • IP Adress [Optional Feature - Must be enabled]
+  • IP Address [Optional Feature - Must be enabled]
 }
 - Why?
 {
